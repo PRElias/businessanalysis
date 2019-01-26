@@ -16,6 +16,11 @@ E por que condensar tudo em um site em vez de um post no meu blog? Um dos motivo
 
 [Wikipedia - Event-driven Process Chain](https://en.wikipedia.org/wiki/Event-driven_process_chain)
 
+# Ferramentas de Gerenciamento
+
+**Project Model Canvas**
+[![Canvas](http://img.youtube.com/vi/lNfHODEQ-c8/0.jpg)](http://www.youtube.com/watch?v=lNfHODEQ-c8 "Canvas")
+
 [Objetivos SMART](https://www.portal-gestao.com/artigos/6197-o-que-s%C3%A3o-objectivos-smart.html)
 
 # Levantamento de Requisitos
@@ -58,3 +63,4 @@ Esse software permite exportar wireframes para HTML, tornando o compartilhamento
 # Autor
 
 ![Paulo Roberto Elias](https://paulorobertoelias.com/img/profile.png)
+[Paulo Roberto Elias](https://paulorobertoelias.com)
