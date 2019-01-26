@@ -78,7 +78,7 @@ Esse software permite exportar wireframes para HTML, tornando o compartilhamento
 
 Sempre lembre-se de dar 2 espaço ao final de um parágrado caso queira que uma linha seja pulada!  
 
-# Como contribuir
+**Como contribuir**
 
 Para contribuir com o site, o processo é o mesmo que com qualquer repositório Open Source do Github. Pretendo incluir mais materiais, mas caso consiga ler em inglês, o link abaixo possui um passo-a-passo bem simples.  
 
