@@ -12,9 +12,9 @@ As seções abaixo não representam, ao menos inicialmente, nenhuma ordem cronol
 
 # Levantamento de Requisitos
 
-[Técnicas de levantamento de requisitos]https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151
+[Técnicas de levantamento de requisitos](https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151)
 
-[Técnicas de extração de requisitos]https://www.tiespecialistas.com.br/tecnicas-de-extracao-de-requisitos/
+[Técnicas de extração de requisitos](https://www.tiespecialistas.com.br/tecnicas-de-extracao-de-requisitos/)
 
 # Softwares e Ferramentas
 
