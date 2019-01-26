@@ -76,7 +76,13 @@ Esse software permite exportar wireframes para HTML, tornando o compartilhamento
 [Dicas Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-Sempre lembre-se de dar 2 espaço ao final de um parágrado caso queira que uma linha seja pulada!
+Sempre lembre-se de dar 2 espaço ao final de um parágrado caso queira que uma linha seja pulada!  
+
+# Como contribuir
+
+Para contribuir com o site, o processo é o mesmo que com qualquer repositório Open Source do Github. Pretendo incluir mais materiais, mas caso consiga ler em inglês, o link abaixo possui um passo-a-passo bem simples.  
+
+[First Contributions](https://github.com/PRElias/first-contributions)
 
 # Autor(es)
 
