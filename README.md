@@ -1,5 +1,6 @@
-Análise e Modelagem de Negócios, Processos e Software
-Links e informações úteis relativos à função de Business Analyst, Product Owner, Analista Funcional, etc
+A ideia deste site surgiu de uma necessidade particular minha, de condensar em um único lugar, todos os materiais interessantes que encontro no meu dia a dia no trabalho com projetos de desenvolvimento de software, mas especificamente as atividades de análise e Modelagem de Negócios, Processos e Ciclo de Vida de Desenvolvimento de Software.  
+Sendo assim, o intuito principal seria reunir links e informações úteis relativas às funções de Business Analyst, Product Owner, Analista Funcional, Analista de Requisitos, etc.  
+As seções abaixo não representam, ao menos inicialmente, nenhuma ordem cronológica, hierárquica ou de importância entre si, com exceção da última seção de materiais de apoio, que são um banco de dados de links para manutenção do próprio site em si. 
 
 # Mapeamento de processos
 
@@ -35,7 +36,7 @@ Esse software permite exportar wireframes para HTML, tornando o compartilhamento
 
 SIPOC: Supplier Input Process Output Customer 
 
-# Referências
+# Material de Apoio
 
 [Como criar páginas automáticas no Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)  
 [Tema utilizado](https://github.com/pages-themes/leap-day)  
