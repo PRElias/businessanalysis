@@ -15,14 +15,6 @@ https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151
 
 https://www.tiespecialistas.com.br/tecnicas-de-extracao-de-requisitos/
 
-# Softwares e Ferramentas
-
-[Bizagi](https://portal.bizagi.com//en/download-modeler-confirmation?dwl=d40fb20ffc91a0cbb20cb8f7c328a52ff42ff11d)
-
-[Pencil](https://pencil.evolus.vn/)
-
-Esse software permite exportar wireframes para HTML, tornando o compartilhamento muito interessante
-
 # Certificações
 
 http://www.iiba.org.br/index.php/consultar/44-certificacao
