@@ -18,8 +18,8 @@ E por que condensar tudo em um site em vez de um post no meu blog? Um dos motivo
 
 # Ferramentas de Gerenciamento
 
-**Project Model Canvas**
-[![Canvas](http://img.youtube.com/vi/lNfHODEQ-c8/0.jpg)](http://www.youtube.com/watch?v=lNfHODEQ-c8 "Canvas")
+**Project Model Canvas**  
+[![Canvas](http://img.youtube.com/vi/lNfHODEQ-c8/0.jpg)](http://www.youtube.com/watch?v=lNfHODEQ-c8 "Canvas")  
 
 [Objetivos SMART](https://www.portal-gestao.com/artigos/6197-o-que-s%C3%A3o-objectivos-smart.html)
 
