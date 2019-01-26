@@ -31,3 +31,9 @@ http://www.iiba.org.br/index.php/consultar/44-certificacao
 ## Glossário
 
 SIPOC: Supplier Input Process Output Customer 
+
+## Referências
+
+Como criar páginas automáticas
+
+https://nicolas-van.github.io/easy-markdown-to-github-pages/
