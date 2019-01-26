@@ -62,5 +62,5 @@ Esse software permite exportar wireframes para HTML, tornando o compartilhamento
 
 # Autor
 
-![Paulo Roberto Elias](https://paulorobertoelias.com/img/profile.png)
+![Paulo Roberto Elias](https://paulorobertoelias.com/img/profile.png)  
 [Paulo Roberto Elias](https://paulorobertoelias.com)
