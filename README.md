@@ -1,8 +1,10 @@
-A ideia deste site surgiu de uma necessidade particular minha, de condensar em um único lugar, todos os materiais interessantes que encontro no meu dia a dia no trabalho com projetos de desenvolvimento de software, mas especificamente as atividades de análise e Modelagem de Negócios, Processos e Ciclo de Vida de Desenvolvimento de Software.  
+A ideia deste site surgiu de uma necessidade particular minha, de condensar em um único lugar, todos os materiais interessantes que encontro no meu dia a dia no trabalho com projetos de desenvolvimento de software, mais especificamente as atividades de análise e Modelagem de Negócios, Processos e Ciclo de Vida de Desenvolvimento de Software.  
 
 Sendo assim, o intuito principal seria reunir links e informações úteis relativas às funções de Business Analyst, Product Owner, Analista Funcional, Analista de Requisitos, etc.  
 
 As seções abaixo não representam, ao menos inicialmente, nenhuma ordem cronológica, hierárquica ou de importância entre si, com exceção da última seção de materiais de apoio, que são um banco de dados de links para manutenção do próprio site em si. 
+
+E por que condensar tudo em um site em vez de um post no meu blog? Um dos motivos é manter o conteúdo possivelmente colaborativo. Qualquer pessoa pode fazer um fork do projeto e sugerir edições ou adições ao conteúdo e eu terei o maior prazar em revisar e possivelmente aceitar a alteração.
 
 # Mapeamento de processos
 
