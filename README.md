@@ -12,6 +12,8 @@ E por que condensar tudo em um site em vez de um post no meu blog? Um dos motivo
 
 [Wikipedia - Event-driven Process Chain](https://en.wikipedia.org/wiki/Event-driven_process_chain)
 
+[Objetivos SMART](https://www.portal-gestao.com/artigos/6197-o-que-s%C3%A3o-objectivos-smart.html)
+
 # Levantamento de Requisitos
 
 [Técnicas de levantamento de requisitos](https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151)
@@ -40,6 +42,7 @@ Esse software permite exportar wireframes para HTML, tornando o compartilhamento
 
 **SIPOC**: Supplier / Input / Process / Output / Customer  
 **MoSCoW**: Must Have / Should Have / Could Have / Won't Have for Now
+**Objetivos SMART**: Específicos (Specific) / Mensuráveis (Measurable) / Atingíveis (Attainable) / Realistas (Realistic) / Temporizáveis (Time-bound)
 
 # Material de Apoio
 
