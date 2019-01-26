@@ -38,7 +38,8 @@ Esse software permite exportar wireframes para HTML, tornando o compartilhamento
 
 # Glossário
 
-SIPOC: Supplier Input Process Output Customer 
+SIPOC: Supplier / Input / Process / Output / Customer
+MoSCoW: Must Have / Should Have / Could Have / Won't Have for Now
 
 # Material de Apoio
 
