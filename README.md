@@ -41,7 +41,7 @@ Esse software permite exportar wireframes para HTML, tornando o compartilhamento
 # Glossário
 
 **SIPOC**: Supplier / Input / Process / Output / Customer  
-**MoSCoW**: Must Have / Should Have / Could Have / Won't Have for Now
+**MoSCoW**: Must Have / Should Have / Could Have / Won't Have for Now  
 **Objetivos SMART**: Específicos (Specific) / Mensuráveis (Measurable) / Atingíveis (Attainable) / Realistas (Realistic) / Temporizáveis (Time-bound)
 
 # Material de Apoio
