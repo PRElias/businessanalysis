@@ -2,7 +2,7 @@ A ideia deste site surgiu de uma necessidade particular minha, de condensar em u
 
 Sendo assim, o intuito principal seria reunir links e informações úteis relativas às funções de Business Analyst, Product Owner, Analista Funcional, Analista de Requisitos, etc.  
 
-As seções abaixo não representam, ao menos inicialmente, nenhuma ordem cronológica, hierárquica ou de importância entre si, com exceção da última seção de materiais de apoio, que são um banco de dados de links para manutenção do próprio site em si. 
+As seções abaixo não representam, ao menos inicialmente, nenhuma ordem cronológica, hierárquica ou de importância entre si, com exceção das últimas seções, de materiais de apoio e autor(es), que são um banco de dados de links para manutenção do próprio site em si e informações adicionais sobre o autor do site. 
 
 E por que condensar tudo em um site em vez de um post no meu blog? Um dos motivos é manter o conteúdo possivelmente colaborativo. Qualquer pessoa pode fazer um fork do projeto e sugerir edições ou adições ao conteúdo e eu terei o maior prazar em revisar e possivelmente aceitar a alteração.
 
@@ -46,3 +46,7 @@ SIPOC: Supplier Input Process Output Customer
 [Tema utilizado](https://github.com/pages-themes/leap-day)  
 [Incorporar vídeos do Youtube no site](http://embedyoutube.org/)  
 [Dicas Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
+
+# Autor
+
+![Paulo Roberto Elias](https://paulorobertoelias.com/img/profile.png)
