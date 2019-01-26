@@ -35,6 +35,6 @@ SIPOC: Supplier Input Process Output Customer
 
 # Referências
 
-Como criar páginas automáticas no Github Pages: [link](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
-Tema utilizado: [link](https://github.com/pages-themes/leap-day)
-Incorporar vídeos do Youtube no site: [link](http://embedyoutube.org/)
+Como criar páginas automáticas no Github Pages: [link](https://nicolas-van.github.io/easy-markdown-to-github-pages/)  
+Tema utilizado: [link](https://github.com/pages-themes/leap-day)  
+Incorporar vídeos do Youtube no site: [link](http://embedyoutube.org/)  
