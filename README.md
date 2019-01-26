@@ -1,6 +1,6 @@
 A ideia deste site surgiu de uma necessidade particular minha, de condensar em um único lugar, todos os materiais interessantes que encontro no meu dia a dia no trabalho com projetos de desenvolvimento de software, mais especificamente as atividades de análise e Modelagem de Negócios, Processos e Ciclo de Vida de Desenvolvimento de Software.  
 
-Sendo assim, o intuito principal seria reunir links e informações úteis relativas às funções de Business Analyst, Product Owner, Analista Funcional, Analista de Requisitos, etc.  
+Sendo assim, o intuito principal seria reunir links e informações úteis relativas às funções de Business Analyst (Analista de Negócios), Product Owner, Analista Funcional, Analista de Requisitos, Gerentes de Projeto e Scrum Masters.  
 
 As seções abaixo não representam, ao menos inicialmente, nenhuma ordem cronológica, hierárquica ou de importância entre si, com exceção das últimas seções, de materiais de apoio e autor(es), que são um banco de dados de links para manutenção do próprio site em si e informações adicionais sobre o autor do site. 
 
