@@ -1,18 +1,20 @@
 A ideia deste site surgiu de uma necessidade particular minha, de condensar em um único lugar, todos os materiais interessantes que encontro no meu dia a dia no trabalho com projetos de desenvolvimento de software, mas especificamente as atividades de análise e Modelagem de Negócios, Processos e Ciclo de Vida de Desenvolvimento de Software.  
+
 Sendo assim, o intuito principal seria reunir links e informações úteis relativas às funções de Business Analyst, Product Owner, Analista Funcional, Analista de Requisitos, etc.  
+
 As seções abaixo não representam, ao menos inicialmente, nenhuma ordem cronológica, hierárquica ou de importância entre si, com exceção da última seção de materiais de apoio, que são um banco de dados de links para manutenção do próprio site em si. 
 
 # Mapeamento de processos
 
-https://www.lecom.com.br/blog/ferramentas-para-mapear-processos/
+[Ferramentas de mapeamento de processos]https://www.lecom.com.br/blog/ferramentas-para-mapear-processos/
 
 [Wikipedia - Event-driven Process Chain](https://en.wikipedia.org/wiki/Event-driven_process_chain)
 
 # Levantamento de Requisitos
 
-https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151
+[Técnicas de levantamento de requisitos]https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151
 
-https://www.tiespecialistas.com.br/tecnicas-de-extracao-de-requisitos/
+[Técnicas de extração de requisitos]https://www.tiespecialistas.com.br/tecnicas-de-extracao-de-requisitos/
 
 # Softwares e Ferramentas
 
