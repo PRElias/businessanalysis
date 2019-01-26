@@ -15,15 +15,19 @@ https://www.tiespecialistas.com.br/tecnicas-de-extracao-de-requisitos/
 
 # Softwares e Ferramentas
 
+Nesta seção, a ideia é apresentar apenas opções de ferramentar open-source ou free, já que as ferramentas pagas, usualmente mehores e com mais recursos, geram necessidade de investimento, ou mesmo a necessidade do cliente também precisar possuir para poder abrir artefatos.
+
 [Bizagi](https://portal.bizagi.com//en/download-modeler-confirmation?dwl=d40fb20ffc91a0cbb20cb8f7c328a52ff42ff11d)
 
 [Pencil](https://pencil.evolus.vn/)
 
 Esse software permite exportar wireframes para HTML, tornando o compartilhamento muito interessante
 
+# Técnicas de Priorização de Backlog
+
 # Certificações
 
-http://www.iiba.org.br/index.php/consultar/44-certificacao
+[BABOK](http://www.iiba.org.br/index.php/consultar/44-certificacao)
 
 # Glossário
 
@@ -31,9 +35,5 @@ SIPOC: Supplier Input Process Output Customer
 
 # Referências
 
-Como criar páginas automáticas
-
-https://nicolas-van.github.io/easy-markdown-to-github-pages/
-
-# Tema
-https://github.com/pages-themes/leap-day
+Como criar páginas automáticas no Github Pages: [link](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
+Tema utilizado: [link](https://github.com/pages-themes/leap-day)
