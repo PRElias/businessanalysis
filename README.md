@@ -10,6 +10,8 @@ As seções abaixo não representam, ao menos inicialmente, nenhuma ordem cronol
 
 E por que condensar tudo em um site em vez de um post no meu blog? Um dos motivos é manter o conteúdo possivelmente colaborativo. Qualquer pessoa pode fazer um fork do projeto e sugerir edições ou adições ao conteúdo e eu terei o maior prazar em revisar e possivelmente aceitar a alteração.
 
+Sobre os materiais em si, o foco é evitar materiais que sirvam puramente como ideias ou vídeos motivacionais. Não pela falta de qualidade, mas pelo excesso de abstração e baixo pragmatismo e praticidade.
+
 # Mapeamento de processos
 
 [Ferramentas de mapeamento de processos](https://www.lecom.com.br/blog/ferramentas-para-mapear-processos/)
@@ -53,6 +55,14 @@ Esse software permite exportar wireframes para HTML, tornando o compartilhamento
 **MoSCoW**: Must Have / Should Have / Could Have / Won't Have for Now  
 **Objetivos SMART**: Específicos (Specific) / Mensuráveis (Measurable) / Atingíveis (Attainable) / Realistas (Realistic) / Temporizáveis (Time-bound)
 
+# Bibliografia
+
+[Project Model Visual. Gestão de Projetos Simples e Eficaz](https://www.amazon.com.br/Visual-Project-Gest%C3%A3o-Projetos-Simples/dp/8547204989?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=go_729680143_34002717090_172477348789_aud-519888259198:pla-452222928197_c_)  
+
+[Project Model Canvas](https://www.amazon.com.br/Project-model-Canvas-Finocchio-J%C3%BAnior/dp/8535274561?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=go_726685122_50066927923_242623737002_aud-519888259198:pla-590093322472_c_)  
+
+[SCRUM: A arte de fazer o dobro de trabalho na metade do tempo](https://www.amazon.com.br/SCRUM-fazer-dobro-trabalho-metade-ebook/dp/B01N0QKCL5?tag=goog0ef-20&smid=A18CNA8NWQSYHH&ascsubtag=go_1366271959_58245915327_265589414315_pla-616317515735_c_)  
+
 # Material de Apoio
 
 [Como criar páginas automáticas no Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)  
@@ -60,7 +70,7 @@ Esse software permite exportar wireframes para HTML, tornando o compartilhamento
 [Incorporar vídeos do Youtube no site](http://embedyoutube.org/)  
 [Dicas Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
 
-# Autor
+# Autor(es)
 
 ![Paulo Roberto Elias](https://paulorobertoelias.com/img/profile.png)  
 [Paulo Roberto Elias](https://paulorobertoelias.com)
