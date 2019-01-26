@@ -1,3 +1,7 @@
+Coletânea de Materiais Úteis
+
+# Introdução e Objetivos
+
 A ideia deste site surgiu de uma necessidade particular minha, de condensar em um único lugar, todos os materiais interessantes que encontro no meu dia a dia no trabalho com projetos de desenvolvimento de software, mais especificamente as atividades de análise e Modelagem de Negócios, Processos e Ciclo de Vida de Desenvolvimento de Software.  
 
 Sendo assim, o intuito principal seria reunir links e informações úteis relativas às funções de Business Analyst (Analista de Negócios), Product Owner, Analista Funcional, Analista de Requisitos, Gerentes de Projeto e Scrum Masters.  
