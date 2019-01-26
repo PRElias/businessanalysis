@@ -25,6 +25,8 @@ Esse software permite exportar wireframes para HTML, tornando o compartilhamento
 
 # Técnicas de Priorização de Backlog
 
+[Link](https://imasters.com.br/devsecops/algumas-tecnicas-de-priorizacao-do-backlog)
+
 # Certificações
 
 [BABOK](http://www.iiba.org.br/index.php/consultar/44-certificacao)
