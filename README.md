@@ -6,7 +6,7 @@ Links e informações úteis relativos à função de Business Analyst, Product 
 
 https://www.lecom.com.br/blog/ferramentas-para-mapear-processos/
 
-https://en.wikipedia.org/wiki/Event-driven_process_chain
+[Wikipedia - Event-driven Process Chain](https://en.wikipedia.org/wiki/Event-driven_process_chain)
 
 ## Levantamento de Requisitos
 
@@ -18,7 +18,7 @@ https://www.tiespecialistas.com.br/tecnicas-de-extracao-de-requisitos/
 
 https://portal.bizagi.com//en/download-modeler-confirmation?dwl=d40fb20ffc91a0cbb20cb8f7c328a52ff42ff11d
 
-### Pencil
+Pencil
 
 https://pencil.evolus.vn/
 
