@@ -6,7 +6,7 @@ As seções abaixo não representam, ao menos inicialmente, nenhuma ordem cronol
 
 # Mapeamento de processos
 
-[Ferramentas de mapeamento de processos]https://www.lecom.com.br/blog/ferramentas-para-mapear-processos/
+[Ferramentas de mapeamento de processos](https://www.lecom.com.br/blog/ferramentas-para-mapear-processos/)
 
 [Wikipedia - Event-driven Process Chain](https://en.wikipedia.org/wiki/Event-driven_process_chain)
 
