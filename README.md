@@ -21,9 +21,14 @@ Sobre os materiais em si, o foco é evitar materiais que sirvam puramente como i
 # Ferramentas de Gerenciamento
 
 **Project Model Canvas**  
+__Youtube Vídeo__
 [![Canvas](http://img.youtube.com/vi/lNfHODEQ-c8/0.jpg)](http://www.youtube.com/watch?v=lNfHODEQ-c8 "Canvas")  
 
 [Objetivos SMART](https://www.portal-gestao.com/artigos/6197-o-que-s%C3%A3o-objectivos-smart.html)
+
+**O papel do Product Owner**
+__Youtube Vídeo__
+[![Product Owner](http://img.youtube.com/vi/7lhnYbmovb4/0.jpg)](http://www.youtube.com/watch?v=7lhnYbmovb4 "Product Owner")
 
 # Levantamento de Requisitos
 
