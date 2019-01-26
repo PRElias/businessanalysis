@@ -1,5 +1,3 @@
-# Introdução
-
 Análise e Modelagem de Negócios, Processos e Software
 Links e informações úteis relativos à função de Business Analyst, Product Owner, Analista Funcional, etc
 
