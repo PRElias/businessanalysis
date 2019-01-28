@@ -46,6 +46,10 @@ Nesta seção, a ideia é apresentar apenas opções de ferramentar open-source 
 
 Esse software permite exportar wireframes para HTML, tornando o compartilhamento muito interessante
 
+[GanttProject](https://www.ganttproject.biz/download/free)
+
+Software para acompanhamento de projetos estilo Microsoft Project
+
 # Técnicas de Priorização de Backlog
 
 [Link](https://imasters.com.br/devsecops/algumas-tecnicas-de-priorizacao-do-backlog)
