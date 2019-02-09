@@ -69,6 +69,7 @@ Semelhante ao Gantt Project, permite abrir e editar arquivos do Microsoft Projec
 **SIPOC**: Supplier / Input / Process / Output / Customer  
 **MoSCoW**: Must Have / Should Have / Could Have / Won't Have for Now  
 **Objetivos SMART**: Específicos (Specific) / Mensuráveis (Measurable) / Atingíveis (Attainable) / Realistas (Realistic) / Temporizáveis (Time-bound)
+**SRS**: Software Requirements Specifications  
 
 # Bibliografia
 
