@@ -12,6 +12,10 @@ E por que condensar tudo em um site em vez de um post no meu blog? Um dos motivo
 
 Sobre os materiais em si, o foco é evitar materiais que sirvam puramente como ideias ou vídeos motivacionais. Não pela falta de qualidade, mas pelo excesso de abstração e baixo pragmatismo e praticidade.
 
+# Frameworks e modelos
+
+[![Scrum](http://img.youtube.com/vi/s4thQcgLCqk/0.jpg)](http://www.youtube.com/watch?v=s4thQcgLCqk "Scrum")  
+
 # Mapeamento de processos
 
 [Ferramentas de mapeamento de processos](https://www.lecom.com.br/blog/ferramentas-para-mapear-processos/)
