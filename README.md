@@ -48,11 +48,15 @@ Nesta seção, a ideia é apresentar apenas opções de ferramentar open-source 
 
 [Pencil](https://pencil.evolus.vn/)
 
-Esse software permite exportar wireframes para HTML, tornando o compartilhamento muito interessante
+Esse software permite exportar wireframes para HTML, tornando o compartilhamento muito interessante.  
+
+[Draw.io](https://www.draw.io/)  
+
+Software opensource para geração de fluxogramas online bem completo.  
 
 [Gantt Project](https://www.ganttproject.biz/download/free)  
 
-Software para acompanhamento de projetos estilo Microsoft Project  
+Software para acompanhamento de projetos estilo Microsoft Project.  
 
 [Project Libre](https://www.projectlibre.com/product/projectlibre-open-source)  
 
