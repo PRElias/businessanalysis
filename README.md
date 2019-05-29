@@ -101,5 +101,5 @@ Para contribuir com o site, o processo é o mesmo que com qualquer repositório 
 
 # Autor(es)
 
-![Paulo Roberto Elias](https://paulorobertoelias.com/img/profile.png)  
-[Paulo Roberto Elias](https://paulorobertoelias.com)
+![Paulo Roberto Elias](https://paulorobertoelias.com.br/img/profile.png)  
+[Paulo Roberto Elias](https://paulorobertoelias.com.br)
