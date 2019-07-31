@@ -14,7 +14,11 @@ Sobre os materiais em si, o foco é evitar materiais que sirvam puramente como i
 
 # Frameworks e modelos
 
-[![Scrum](http://img.youtube.com/vi/s4thQcgLCqk/0.jpg)](http://www.youtube.com/watch?v=s4thQcgLCqk "Scrum")  
+[![Scrum](http://img.youtube.com/vi/s4thQcgLCqk/0.jpg)](http://www.youtube.com/watch?v=s4thQcgLCqk "Scrum") 
+
+No vídeo abaixo trago uma voz dissonante, o que considero muito importante para sempre nos mantermos evoluindo.  
+
+[![NoScrum](http://img.youtube.com/vi/xjjX3R2WuoM/0.jpg)](http://www.youtube.com/watch?v=xjjX3R2WuoM "NoScrum")  
 
 # Mapeamento de processos
 
