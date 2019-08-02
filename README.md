@@ -16,9 +16,11 @@ Sobre os materiais em si, o foco é evitar materiais que sirvam puramente como i
 
 [![Scrum](http://img.youtube.com/vi/s4thQcgLCqk/0.jpg)](http://www.youtube.com/watch?v=s4thQcgLCqk "Scrum") 
 
-No vídeo abaixo trago uma voz dissonante, o que considero muito importante para sempre nos mantermos evoluindo.  
+Nos dois vídeos abaixo trago uma voz dissonante, o que considero muito importante para sempre nos mantermos evoluindo.  
 
 [![NoScrum](http://img.youtube.com/vi/xjjX3R2WuoM/0.jpg)](http://www.youtube.com/watch?v=xjjX3R2WuoM "NoScrum")  
+
+[![NoScrum2](http://img.youtube.com/vi/6S94h3xSbnI/0.jpg)](https://www.youtube.com/watch?v=6S94h3xSbnI "NoScrum2")  
 
 # Mapeamento de processos
 
