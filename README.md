@@ -78,9 +78,16 @@ Semelhante ao Gantt Project, permite abrir e editar arquivos do Microsoft Projec
 
 [BABOK](http://www.iiba.org.br/index.php/consultar/44-certificacao)
 
+Certificação focada em Especificação de Requisitos
+
 [CPRE-FL](https://www.abramti.org.br/abramti/certificacoes) 
 
-Materiais de preparação: [Exame simulado](http://ibqts.com.br/uploads/conteudo/53/04-IREB_CPRE_FL_Exame%20Simulado_Set_BR_2012-Public_V1_4%20oficial%2020160712.pdf) e [texto de rferência](https://www.abramti.org.br/sites/default/files/arquivos/ireb_cpre_syllabus_fl_pt.pdf)  
+Materiais de preparação: [Exame simulado](http://ibqts.com.br/uploads/conteudo/53/04-IREB_CPRE_FL_Exame%20Simulado_Set_BR_2012-Public_V1_4%20oficial%2020160712.pdf) e [texto de referência](https://www.abramti.org.br/sites/default/files/arquivos/ireb_cpre_syllabus_fl_pt.pdf)  
+
+Certificação para profissionais de testes e QA
+
+[ISTQB - International Software Testing Qualifications Board](https://www.istqb.org/certification-path-root/istqb-certification-product-portfolio.html)  
+[BSTQB - Parceiro brasileiro do ISTQB](https://www.bstqb.org.br/sobre-certificacao)  
 
 # Glossário
 
