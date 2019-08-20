@@ -82,7 +82,8 @@ Certificação focada em Especificação de Requisitos
 
 [CPRE-FL](https://www.abramti.org.br/abramti/certificacoes) 
 
-Materiais de preparação: [Exame simulado](http://ibqts.com.br/uploads/conteudo/53/04-IREB_CPRE_FL_Exame%20Simulado_Set_BR_2012-Public_V1_4%20oficial%2020160712.pdf) e [texto de referência](https://www.abramti.org.br/sites/default/files/arquivos/ireb_cpre_syllabus_fl_pt.pdf)  
+Materiais de preparação: [Exame simulado](http://ibqts.com.br/uploads/conteudo/53/04-IREB_CPRE_FL_Exame%20Simulado_Set_BR_2012-Public_V1_4%20oficial%2020160712.pdf) e [texto de referência](https://www.abramti.org.br/sites/default/files/arquivos/ireb_cpre_syllabus_fl_pt.pdf). [Texto da ISO (em inglês)](https://edisciplinas.usp.br/pluginfile.php/1077344/mod_folder/content/0/iso-iec-ieee-29148-2011.pdf?forcedownload=1)  
+
 
 Certificação para profissionais de testes e QA
 
