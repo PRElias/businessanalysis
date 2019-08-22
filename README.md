@@ -48,7 +48,7 @@ _Youtube Vídeo_
 
 [Técnicas de extração de requisitos](https://www.tiespecialistas.com.br/tecnicas-de-extracao-de-requisitos/)
 
-# Softwares e Ferramentas
+# Softwares
 
 Nesta seção, a ideia é apresentar apenas opções de ferramentar open-source ou free, já que as ferramentas pagas, usualmente mehores e com mais recursos, geram necessidade de investimento, ou mesmo a necessidade do cliente também precisar possuir para poder abrir artefatos.
 
@@ -69,6 +69,10 @@ Software para acompanhamento de projetos estilo Microsoft Project.
 [Project Libre](https://www.projectlibre.com/product/projectlibre-open-source)  
 
 Semelhante ao Gantt Project, permite abrir e editar arquivos do Microsoft Project
+
+[scrumblr](https://github.com/aliasaria/scrumblr)  
+
+Software opensource de Kanban colaborativo focado na simplicidade
 
 # Técnicas de Priorização de Backlog
 
