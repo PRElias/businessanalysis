@@ -1,16 +1,18 @@
-Coletânea de Materiais Úteis
+O conteúdo deste site representa uma coletânea de materiais úteis e, quem sabe no futuro, um ponto de encontro para troca de ideias. Em cada um dos tópicos abaixo, para os quais você pode navegar diretamente pelo menu à esquerda, você encontrará um lista em evolução de links, vídeos, posts e downloads interessantes.  
 
-# Introdução e Objetivos
+Seja bem vindo!  
 
-A ideia deste site surgiu de uma necessidade particular minha, de condensar em um único lugar, todos os materiais interessantes que encontro no meu dia a dia no trabalho com projetos de desenvolvimento de software, mais especificamente as atividades de análise e Modelagem de Negócios, Processos e Ciclo de Vida de Desenvolvimento de Software.  
+# Objetivos
 
-Sendo assim, o intuito principal seria reunir links e informações úteis relativas às funções de Business Analyst (Analista de Negócios), Product Owner, Analista Funcional, Analista de Requisitos, Gerentes de Projeto e Scrum Masters.  
+A ideia deste site surgiu de uma necessidade particular minha, de condensar em um único lugar, todos os materiais interessantes que encontro no meu dia a dia no trabalho com projetos de desenvolvimento de software, mais especificamente as atividades relacionadas a engenharia de requisitos, análise e modelagem de negócios, processos e ciclo de vida de desenvolvimento de software e gerenciamento de projetos.  
 
-As seções abaixo não representam, ao menos inicialmente, nenhuma ordem cronológica, hierárquica ou de importância entre si, com exceção das últimas seções, de materiais de apoio e autor(es), que são um banco de dados de links para manutenção do próprio site em si e informações adicionais sobre o autor do site. 
+Sendo assim, o intuito principal seria reunir links e informações úteis relativas às funções de Business Analyst (Analista de Negócios), Product Owner, Analista Funcional, Analista de Requisitos, Gerentes de Projeto, Scrum Masters, entre outros.  
 
-E por que condensar tudo em um site em vez de um post no meu blog? Um dos motivos é manter o conteúdo possivelmente colaborativo. Qualquer pessoa pode fazer um fork do projeto e sugerir edições ou adições ao conteúdo e eu terei o maior prazar em revisar e possivelmente aceitar a alteração.
+As seções abaixo não representam, ao menos inicialmente, nenhuma ordem cronológica, hierárquica ou de importância entre si, com exceção das últimas seções, com materiais de apoio e autor(es), que são um banco de dados de links para manutenção do próprio site em si e informações adicionais sobre o autor do site. 
 
-Sobre os materiais em si, o foco é evitar materiais que sirvam puramente como ideias ou vídeos motivacionais. Não pela falta de qualidade, mas pelo excesso de abstração e baixo pragmatismo e praticidade.
+E por que condensar tudo em um site em vez de um post no meu blog? Um dos motivos é manter o conteúdo possivelmente colaborativo. Qualquer pessoa pode fazer um fork do projeto e sugerir edições ou adições ao conteúdo e eu terei o maior prazar em revisar e possivelmente aceitar a alteração. O segundo motivo é que, dessa forma, a rastreabilidade é muito maior. Por mais que seja relativamente fácil pesquisar qualquer coisa na internet, a navegação por tópicos é, sem dúvida, mais ágil e prática.
+
+Sobre os materiais em si, o foco é evitar os que sirvam puramente como ideias ou vídeos motivacionais. Não pela falta de qualidade, mas pelo excesso de abstração e baixo pragmatismo e praticidade.
 
 # Frameworks e modelos
 
