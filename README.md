@@ -46,6 +46,8 @@ _Youtube Vídeo_
 
 [Técnicas de extração de requisitos](https://www.tiespecialistas.com.br/tecnicas-de-extracao-de-requisitos/)
 
+[Da crise do software à crise de significado: a importância de aprender a compreender](https://medium.com/software-zen/da-crise-do-software-%C3%A0-crise-de-significado-a-import%C3%A2ncia-de-aprender-a-compreender-5ff8fb920e37)
+
 # Softwares e Ferramentas
 
 Nesta seção, a ideia é apresentar apenas opções de ferramentar open-source ou free, já que as ferramentas pagas, usualmente mehores e com mais recursos, geram necessidade de investimento, ou mesmo a necessidade do cliente também precisar possuir para poder abrir artefatos.
